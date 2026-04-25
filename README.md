@@ -1,8 +1,8 @@
-# 🚀 MyApp — React SPA con Vite + Material UI
+# MyApp — React SPA con Vite + Material UI
 
 Proyecto de práctica — Desarrollo Web. SPA con React, Vite, React Router DOM y Material UI.
 
-## 📋 Requisitos cubiertos
+## Requisitos cubiertos
 
 | Requisito | Implementado en |
 |-----------|----------------|
@@ -20,7 +20,7 @@ Proyecto de práctica — Desarrollo Web. SPA con React, Vite, React Router DOM 
 | Logout en Navbar | `src/components/Navbar.jsx` |
 | Pie de página | `src/components/Footer.jsx` |
 
-## 🗂️ Estructura
+## Estructura
 
 ```
 src/
@@ -43,18 +43,18 @@ src/
 └── main.jsx
 ```
 
-## 🚀 Instrucciones
+## Instrucciones
 
 ```bash
 npm install
 npm run dev
 ```
 
-## 🔑 Credenciales de prueba
+## Credenciales de prueba
 
 Usuario: `Bret` | Contraseña: `123` (o Antonette, Samantha, etc.)
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - React 18 + Hooks
 - Vite
